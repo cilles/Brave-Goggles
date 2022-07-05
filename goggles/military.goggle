@@ -8,6 +8,8 @@ $discard
 ! BRANCHES
 $site=af.mil
 $site=army.mil
+$site=marines.mil
+$site=navy.mil
 $site=uscgboating.org
 
 ! COMMAND CENTERS
@@ -15,8 +17,20 @@ $site=africom.mil
 $site=contcom.mil
 $site=cybercom.mil
 $site=eucom.mil
+$site=northcom.mil
+$site=pacom.mil
+$site=southcom.mil
+$site=spacecom.mil
+$site=stratcom.mil
 
 ! OTHER
 $site=abmc.gov
 $site=afrh.gov
+$site=jcs.mil
+$site=mda.mil
+$site=nationalguard.mil
+$site=ni-u.edu
+$site=nro.gov
+$site=ndu.edu
 $site=va.gov
+$site=usip.org

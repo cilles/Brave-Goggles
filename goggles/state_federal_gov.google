@@ -9,46 +9,49 @@ $discard
 
 ! FEDERAL
 ! LEGISLATIVE
-$site=senate.gov
 $site=congress.gov
 $site=house.gov
+$site=senate.gov
 
 ! EXECUTIVE
-$site=state.gov
-$site=whitehouse.gov
-$site=irs.gov
-$site=atf.gov
-$site=ttb.gov
 $site=archives.gov,boost=3
+$site=atf.gov
 $site=bls.gov
-$site=ojp.gov
-$site=census.gov
+$site=bop.gov
 $site=bts.gov
+$site=census.gov
 $site=cia.gov
 $site=cisa.gov
-$site=defense.gov
-$site=usda.gov
 $site=commerce.gov
+$site=consumerfinance.gov
+$site=dea.gov
+$site=defense.gov
+$site=dhs.gov
+$site=doi.gov
+$site=dol.gov
+$site=dot.gov
 $site=ed.gov
 $site=energy.gov
-$site=hhs.gov
-$site=dhs.gov
-$site=hud.gov
-$site=dol.gov
-$site=doi.gov
-$site=treasury.gov
-$site=transportation.gov
-$site=va.gov
-$site=dea.gov
 $site=epa.gov
 $site=faa.gov
 $site=fbi.gov
-$site=nsa.gov
-$site=bop.gov
-$site=usa.gov
 $site=fcc.gov
 $site=fdic.gov
 $site=fema.gov
+$site=hhs.gov
+$site=hud.gov
+$site=irs.gov
+$site=nsa.gov
+$site=ojp.gov
+$site=peacecorps.gov
+$site=state.gov
+$site=transportation.gov
+$site=treasury.gov
+$site=ttb.gov
+$site=usa.gov
+$site=usda.gov
+$site=va.gov
+$site=whitehouse.gov
 
 
 ! JUDICIAL
