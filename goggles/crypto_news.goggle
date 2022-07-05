@@ -1,6 +1,6 @@
 ! name: Crypto News
 ! description: Only show articles from sites reporting news on Crypto
-! public: true
+! public: false
 ! author: cilles
 
 $discard
