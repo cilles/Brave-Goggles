@@ -1,0 +1,61 @@
+! name: State and Federal Governments Goggle
+! description: Refine searches to state and federal government websites.
+! public: false
+! author: cilles
+
+$discard
+
+
+
+!! FEDERAL
+
+!!! LEGISLATIVE
+$site=senate.gov
+$site=congress.gov
+$site=house.gov
+
+!!! EXECUTIVE
+$site=state.gov
+$site=whitehouse.gov
+$site=irs.gov
+$site=atf.gov
+$site=ttb.gov
+$site=archives.gov,boost=3
+$site=bls.gov
+$site=*.bls.gov
+$site=ojp.gov
+$site=*.ojp.gov
+$site=census.gov
+$site=bts.gov
+$site=cia.gov
+$site=cisa.gov
+$site=defense.gov
+$site=usda.gov
+$site=commerce.gov
+$site=ed.gov
+$site=energy.gov
+$site=hhs.gov
+$site=dhs.gov
+$site=hud.gov
+$site=dol.gov
+$site=doi.gov
+$site=treasury.gov
+$site=transportation.gov
+$site=va.gov
+$site=dea.gov
+$site=epa.gov
+$site=faa.gov
+$site=fbi.gov
+$site=nsa.gov
+$site=bop.gov
+$site=usa.gov
+$site=fcc.gov
+$site=fdic.gov
+$site=fema.gov
+
+
+!!! JUDICIAL
+$site=justice.gov
+$site=uscourts.gov
+
+

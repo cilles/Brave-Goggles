@@ -1,0 +1,26 @@
+! name: Military Sites Search
+! description: Refine searches to U.S. military websites.
+! public: false
+! author: cilles
+
+$discard
+
+
+
+!! BRANCHES
+$site=af.mil
+$site=*.af.mil
+$site=army.mil
+$site=*.army.mil
+$site=uscgboating.org
+
+!! COMMAND CENTERS
+$site=africom.mil
+$site=contcom.mil
+$site=cybercom.mil
+$site=eucom.mil
+
+!! OTHER
+$site=abmc.gov
+$site=afrh.gov
+$site=va.gov
