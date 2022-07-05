@@ -8,3 +8,13 @@ $site=imdb.com,boost=5
 $site=rottentomatoes.com,boost=5
 $site=reddit.com,boost=3
 $site=youtube.com,boost=2
+$site=fandango.com,boost=2
+$site=screenrant.com,boost=2
+
+$site=netflix.com
+$site=disney.com
+$site=hulu.com
+$site=peacocktv.com
+$site=amazon.com
+$site=funimation.com
+$site=crunchyroll.com
