@@ -7,14 +7,13 @@ $discard
 
 
 
-!! FEDERAL
-
-!!! LEGISLATIVE
+! FEDERAL
+! LEGISLATIVE
 $site=senate.gov
 $site=congress.gov
 $site=house.gov
 
-!!! EXECUTIVE
+! EXECUTIVE
 $site=state.gov
 $site=whitehouse.gov
 $site=irs.gov
@@ -22,9 +21,7 @@ $site=atf.gov
 $site=ttb.gov
 $site=archives.gov,boost=3
 $site=bls.gov
-$site=*.bls.gov
 $site=ojp.gov
-$site=*.ojp.gov
 $site=census.gov
 $site=bts.gov
 $site=cia.gov
@@ -54,7 +51,7 @@ $site=fdic.gov
 $site=fema.gov
 
 
-!!! JUDICIAL
+! JUDICIAL
 $site=justice.gov
 $site=uscourts.gov
 
