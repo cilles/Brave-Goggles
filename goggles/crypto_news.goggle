@@ -1,0 +1,18 @@
+! name: Crypto News
+! description: Only show articles from sites reporting news on Crypto
+! public: true
+! author: cilles
+
+$discard
+$site=coindesk.com,boost=4
+$site=cointelegraph.com,boost=4
+$site=cryptonews.com,boost=3
+$site=cryptopotato.com,boost=3
+$site=news.bitcoin.com,boost=3
+$site=zycrypto.com,boost=2
+$site=cryptobriefing.com,boost=3
+$site=coinquora.com,boost=2
+$site=benzinga.com,boost=2
+$site=cryptopolitan.com,boost=2
+$site=newsbtc.com,boost=2
+$site=u.today,boost=4
