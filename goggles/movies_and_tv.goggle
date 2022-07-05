@@ -10,7 +10,10 @@ $site=reddit.com,boost=3
 $site=youtube.com,boost=2
 $site=fandango.com,boost=2
 $site=screenrant.com,boost=2
+$site=movies.stackexchange.com,boost=2
 
+
+! STREAMING SITES
 $site=netflix.com
 $site=disney.com
 $site=hulu.com

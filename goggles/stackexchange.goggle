@@ -1,0 +1,20 @@
+! name: StackExchange
+! description: Refine results for IT/Software related StackExchange sites
+! public: true
+! author: cilles
+
+$discard
+$site=android.stackexchange.com
+$site=askubuntu.com
+$site=dba.stackexchange.com
+$site=networkengineering.stackexchange.com
+$site=security.stackexchange.com
+$site=serverfault.com
+$site=softwareengineering.stackexchange.com
+$site=stackoverflow.com,boost=5
+$site=superuser.com
+$site=unix.stackexchange.com
+$site=ux.stackexchange.com
+$site=webapps.stackexchange.com
+$site=webmasters.stackexchange.com
+$site=wordpress.stackexchange.com
