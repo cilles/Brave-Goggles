@@ -1,0 +1,10 @@
+! name: Movies and TV
+! description: Goggle to help refine Movie and TV Show results
+! public: false
+! author: cilles
+
+$discard
+$site=imdb.com,boost=5
+$site=rottentomatoes.com,boost=5
+$site=reddit.com,boost=3
+$site=youtube.com,boost=2
