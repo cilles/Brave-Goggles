@@ -1,18 +1,92 @@
-! name: Crypto News
-! description: Only show articles from sites reporting news on Crypto
-! public: false
+! name: Crypto
+! description: Browse the World of Crypto
+! public: true
 ! author: cilles
 
 $discard
-$site=coindesk.com,boost=4
-$site=cointelegraph.com,boost=4
-$site=cryptonews.com,boost=3
-$site=cryptopotato.com,boost=3
-$site=news.bitcoin.com,boost=3
-$site=zycrypto.com,boost=2
-$site=cryptobriefing.com,boost=3
-$site=coinquora.com,boost=2
-$site=benzinga.com,boost=2
-$site=cryptopolitan.com,boost=2
-$site=newsbtc.com,boost=2
-$site=u.today,boost=4
+
+! NEWS
+$site=coindesk.com,boost=3
+$site=cointelegraph.com,boost=3
+$site=cryptonews.com,boost=2
+$site=cryptopotato.com,boost=2
+$site=zycrypto.com,boost=1
+$site=cryptobriefing.com,boost=2
+$site=coinquora.com,boost=1
+$site=benzinga.com,boost=1
+$site=cryptopolitan.com,boost=1
+$site=newsbtc.com,boost=1
+$site=u.today,boost=3
+
+! SOCIAL
+$site=reddit.com
+
+
+! EXCHANGES
+$site=crypto.com
+$site=coinbase.com
+$site=gemini.com
+$site=bitmart.com
+$site=kraken.com
+$site=ftx.com
+$site=bitstamp.net
+$site=bitfinex.com
+
+! CHARTS
+$site=tradingview.com
+$site=coinmarketcap.com
+$site=blockchain.com
+$site=investing.com
+$site=etherscan.io
+$site=btc.com
+$site=bitcointicker.com
+
+! OFFICIAL CRYPTO SITES
+$site=bitcoin.org
+$site=ethereum.org
+$site=binance.com
+$site=centre.io
+$site=xrpl.org
+$site=solana.com
+$site=avax.network
+$site=cardano.org
+$site=dogecoin.com
+$site=basicattentiontoken.org
+$site=shibatoken.com
+$site=polkadot.network
+$site=tron.network
+$site=polygon.technology
+$site=litecoin.org
+$site=chain.link
+$site=stellar.org
+$site=uniswap.org
+$site=cosmos.network
+$site=near.org
+$site=getmonero.org
+$site=algorand.com
+$site=chain.com
+$site=vechain.org
+$site=onflow.org
+$site=decentraland.org
+$site=sandbox.game
+$site=apecoin.com
+$site=tezos.com
+$site=hedera.com
+$site=frax.finance
+$site=filecoin.io
+$site=thetatoken.org
+$site=elrond.com
+$site=aave.com
+$site=quant.network
+$site=helium.com
+$site=thegraph.com
+$site=tenset.io
+$site=huobi.com
+$site=fantom.foundation
+$site=thorchain.org
+$site=radixdlt.com
+$site=chiliz.com
+$site=dash.org
+$site=amptoken.org
+$site=nexo.io
+$site=raydium.io
