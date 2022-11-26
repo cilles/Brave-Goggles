@@ -15,7 +15,7 @@ $site=springer.com
 $site=meridian.allenpress.com
 
 
-!SCHOOLS
+! SCHOOLS
 $site=neomed.omeka.net
 $site=journals.psu.edu
 $site=*harvard.edu
