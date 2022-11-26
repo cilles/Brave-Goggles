@@ -1,0 +1,21 @@
+! name: Medical Journals
+! description: Search through Medical Journals
+! public: true
+! author: cilles
+
+$discard
+$site=pubmed.ncbi.nlm.nih.gov
+$site=ncbi.nlm.nih.gov
+$site=amjmed.com
+$site=nejm.org
+$site=journals.lww.com
+
+
+$site=springer.com
+$site=meridian.allenpress.com
+
+
+!SCHOOLS
+$site=neomed.omeka.net
+$site=journals.psu.edu
+$site=*harvard.edu
