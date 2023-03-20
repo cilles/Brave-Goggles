@@ -21,13 +21,13 @@ $site=netflix.com
 $site=disney.com
 $site=hulu.com
 $site=peacocktv.com
-$site=amazon.com
+*Prime Video*$intitle,site=amazon.com
 $site=funimation.com
 $site=crunchyroll.com
 $site=paramountplus.com
 
 ! YOUTUBE
-$site=youtube.com
+$site=youtube.com,boost=2
 *trailer*$intitle
 *clip*$intitle
 *scene*$intitle
