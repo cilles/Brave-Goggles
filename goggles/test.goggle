@@ -1,0 +1,7 @@
+! name: Test Goggle
+! description: Used to test the refining of searches
+! public: false
+! author: cilles
+
+$discard
+*prime*$boost,site=amazon.com,intitle
