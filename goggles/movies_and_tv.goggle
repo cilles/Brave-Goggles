@@ -21,7 +21,7 @@ $site=netflix.com
 $site=disney.com
 $site=hulu.com
 $site=peacocktv.com
-*prime*$site=amazon.com
+*prime*$boost=1,site=amazon.com
 $site=funimation.com
 $site=crunchyroll.com
 $site=paramountplus.com
