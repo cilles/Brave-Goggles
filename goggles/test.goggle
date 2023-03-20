@@ -4,4 +4,4 @@
 ! author: cilles
 
 $discard
-*prime*$boost,site=amazon.com,intitle
+*prime*$boost=1,site=amazon.com,intitle
