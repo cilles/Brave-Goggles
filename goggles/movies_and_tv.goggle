@@ -1,6 +1,6 @@
 ! name: Movies and TV
-! description: Goggle to help refine Movie and TV Show results
-! public: false
+! description: Refine Brave Search for Movie and TV Show results
+! public: true
 ! author: cilles
 
 $discard
