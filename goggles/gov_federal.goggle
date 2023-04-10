@@ -5,7 +5,7 @@
 
 $discard
 
-! START LEGISLATIVE BRANCH
+! ---START LEGISLATIVE BRANCH---
 
 ! Congress
 $site=congress.gov
@@ -13,7 +13,7 @@ $site=congress.gov
 ! Library of Congress
 $site=loc.gov
 
-! END LEGISLATIVE BRANCH
+! ---END LEGISLATIVE BRANCH---
 
 
 
