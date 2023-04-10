@@ -6,8 +6,8 @@
 $discard
 
 ! LEGISLATIVE BRANCH
-$site=congress.gov ! Congress
-$site=loc.gov ! Library of Congress
+$site=congress.gov
+$site=loc.gov
 
 ! JUDICIAL BRANCH
 $site=justice.gov
