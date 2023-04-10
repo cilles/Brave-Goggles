@@ -1,0 +1,50 @@
+! name: Federal Government Search
+! description: Search Federal .gov websites
+! public: false
+! author: cilles
+
+$discard
+
+! LEGISLATIVE BRANCH
+$site=congress.gov ! Congress
+$site=loc.gov ! Library of Congress
+
+! JUDICIAL BRANCH
+$site=justice.gov
+$site=uscourts.gov
+
+
+! EXECUTIVE BRANCH
+$site=archives.gov
+$site=atf.gov
+$site=cia.gov
+$site=cisa.gov
+$site=commerce.gov
+$site=consumerfinance.gov
+$site=dea.gov
+$site=defense.gov
+$site=dhs.gov
+$site=dot.gov
+$site=ed.gov
+$site=energy.gov
+$site=epa.gov
+$site=faa.gov
+$site=fbi.gov
+$site=fcc.gov
+$site=fdic.gov
+$site=federalregister.gov
+$site=fema.gov
+$site=ftc.gov
+$site=hhs.gov
+$site=hud.gov
+$site=irs.gov
+$site=nsa.gov
+$site=sec.gov
+$site=state.gov
+$site=transportation.gov
+$site=treasury.gov
+$site=ttb.gov
+$site=usa.gov
+$site=usda.gov
+$site=va.gov
+$site=whitehouse.gov
