@@ -5,16 +5,30 @@
 
 $discard
 
-! LEGISLATIVE BRANCH
+!!! START LEGISLATIVE BRANCH
+
+! Congress
 $site=congress.gov
+
+! Library of Congress
 $site=loc.gov
 
-! JUDICIAL BRANCH
+!!! END LEGISLATIVE BRANCH
+
+
+
+!!! JUDICIAL BRANCH
+
 $site=justice.gov
 $site=uscourts.gov
 
+!!! END JUDICIAL BRANCH
 
-! EXECUTIVE BRANCH
+
+
+
+!!! EXECUTIVE BRANCH
+
 $site=archives.gov
 $site=atf.gov
 $site=cia.gov
