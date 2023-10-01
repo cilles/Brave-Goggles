@@ -5,11 +5,10 @@
 
 $discard
 
-
-$site=splunk.com
-$site=reddit.com
-$site=stackoverflow.com
-$site=dev.to
-$site=gosplunk.com
-$site=tutorialspoint.com
-$site=kinneygroup.com
+$boost=1,site=splunk.com
+$boost=1,site=reddit.com
+$boost=1,site=stackoverflow.com
+$boost=1,site=dev.to
+$boost=1,site=gosplunk.com
+$boost=1,site=tutorialspoint.com
+$boost=1,site=kinneygroup.com
