@@ -1,0 +1,16 @@
+! name: Splunk 
+! description: Search for news everything Splunk related!
+! public: false
+! author: cilles
+
+$discard
+
+
+$site=splunk.com
+$site=reddit.com/r/Splunk
+$site=reddit.com/r/Splunk/*
+$site=stackoverflow.com
+$site=dev.to
+$site=gosplunk.com
+$site=tutorialspoint.com
+$site=kinneygroup.com
