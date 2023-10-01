@@ -6,7 +6,7 @@
 $discard
 
 $boost=1,site=splunk.com
-$boost=1,site=reddit.com
+$boost=1,site=reddit.com/r/Splunk
 $boost=1,site=stackoverflow.com
 $boost=1,site=dev.to
 $boost=1,site=gosplunk.com
