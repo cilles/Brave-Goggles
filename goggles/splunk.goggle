@@ -7,7 +7,7 @@ $discard
 
 
 $site=splunk.com
-$site=reddit.com/r/Splunk
+$site=reddit.com
 $site=stackoverflow.com
 $site=dev.to
 $site=gosplunk.com
