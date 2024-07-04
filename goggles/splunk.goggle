@@ -4,12 +4,12 @@
 ! author: cilles
 
 $discard
-$boost=1,site=splunk.com
+$boost,site=splunk.com
 $boost=2,site=community.splunk.com
 $boost=3,site=docs.splunk.com
-$boost=1,site=reddit.com/r/Splunk
-$boost=1,site=stackoverflow.com
-$boost=1,site=gosplunk.com
-$boost=1,site=tutorialspoint.com
-$boost=1,site=kinneygroup.com
-$boost=1,site=javatpoint.com
+$boost,site=reddit.com/r/Splunk
+$boost,site=stackoverflow.com
+$boost,site=gosplunk.com
+$boost,site=tutorialspoint.com
+$boost,site=kinneygroup.com
+$boost,site=javatpoint.com
