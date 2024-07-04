@@ -7,7 +7,7 @@ $discard
 
 /r/Splunk$boost=1
 $boost=1,site=stackoverflow.com
-$boost=1,site=gosplunk.com
+! $boost=1,site=gosplunk.com
 $boost=1,site=tutorialspoint.com
 $boost=1,site=kinneygroup.com
 $boost=1,site=javatpoint.com
