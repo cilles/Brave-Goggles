@@ -1,6 +1,6 @@
 ! name: Military Sites Search
 ! description: Refine searches to U.S. military websites.
-! public: false
+! public: true
 ! author: cilles
 
 $discard

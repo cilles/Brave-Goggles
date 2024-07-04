@@ -1,0 +1,11 @@
+! name: Anime Dubs 
+! description: Search for English dubbed anime
+! public: false
+! author: cilles
+
+$discard
+
+$boost=1,site=crunchyroll.com
+$boost=1,site=funimation.com
+$boost=1,site=hidive.com
+$boost=1,site=netflix.com
