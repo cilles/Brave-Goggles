@@ -11,8 +11,3 @@ $site=nejm.org,boost=2
 $site=journals.lww.com,boost=2
 $site=springer.com,boost=2
 $site=meridian.allenpress.com,boost=2
-
-! Schools
-$site=neomed.omeka.net,boost=2
-$site=journals.psu.edu,boost=2
-$site=harvard.edu,boost=2
