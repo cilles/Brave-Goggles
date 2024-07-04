@@ -1,6 +1,6 @@
 ! name: Splunk 
-! description: Search for news everything Splunk related
-! public: false
+! description: Narrow your results to Splunk specific sites
+! public: true
 ! author: cilles
 
 $discard
