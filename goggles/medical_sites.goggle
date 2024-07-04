@@ -18,4 +18,4 @@ $site=meridian.allenpress.com,boost=2
 ! SCHOOLS
 $site=neomed.omeka.net,boost=2
 $site=journals.psu.edu,boost=2
-$site=*harvard.edu,boost=2
+$site=harvard.edu,boost=2
