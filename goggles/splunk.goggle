@@ -4,7 +4,6 @@
 ! author: cilles
 
 $discard
-
 $boost=1,site=splunk.com
 $boost=2,site=community.splunk.com
 $boost=3,site=docs.splunk.com
