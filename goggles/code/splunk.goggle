@@ -1,0 +1,16 @@
+! name: Splunk 
+! description: Narrow your results to Splunk specific sites
+! public: true
+! author: cilles
+
+$discard
+
+/r/Splunk$boost=1
+$boost=1,site=stackoverflow.com
+$boost=1,site=tutorialspoint.com
+$boost=1,site=kinneygroup.com
+$boost=1,site=javatpoint.com
+$boost=1,site=splunk.com
+$boost=1,site=gosplunk.com
+$boost=2,site=community.splunk.com
+$boost=3,site=docs.splunk.com
