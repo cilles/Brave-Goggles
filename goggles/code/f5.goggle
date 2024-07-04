@@ -1,0 +1,13 @@
+! name: F5 
+! description: F5 bugs, updates, community posts, and more!
+! public: true
+! author: cilles
+
+$discard
+
+$boost=1,site=support.f5.com
+$boost=1,site=techdocs.f5.com
+$boost=1,site=my.f5.com
+$boost=1,site=community.f5.com
+$boost=1,site=cdn.f5.com
+/manage/s/article/,$boost=2
