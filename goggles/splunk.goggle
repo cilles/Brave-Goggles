@@ -7,7 +7,7 @@ $discard
 $boost,site=splunk.com
 $boost=2,site=community.splunk.com
 $boost=3,site=docs.splunk.com
-$boost,site=reddit.com/r/Splunk
+/r/Splunk$boost
 $boost,site=stackoverflow.com
 $boost,site=gosplunk.com
 $boost,site=tutorialspoint.com
