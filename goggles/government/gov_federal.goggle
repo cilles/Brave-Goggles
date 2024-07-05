@@ -1,6 +1,6 @@
 ! name: U.S. Federal Government Search
 ! description: Search U.S. Federal .gov websites
-! public: false
+! public: true
 ! author: cilles
 ! issues: https://github.com/cilles/Brave-Goggles/issues
 ! avatar: #0A3161
