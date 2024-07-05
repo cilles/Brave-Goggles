@@ -1,6 +1,6 @@
 ! name: Movies and TV
 ! description: Refine Brave Search for Movie and TV Show results
-! public: true
+! public: false
 ! author: cilles
 
 $discard
