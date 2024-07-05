@@ -1,6 +1,6 @@
 ! name: NYS Goverment 
 ! description: Search official NYS Government sites
-! public: false
+! public: true
 ! author: cilles
 
 ! Main Sites
@@ -19,7 +19,9 @@ $boost=1,site=javitscenter.com
 $boost=1,site=nylb.org
 $boost=1,site=mta.info
 $boost=1,site=nysif.com
+$boost=1,site=nyassembly.gov
 $boost=1,site=nysenate.gov
+$boost=1,site=nycourts.gov
 $boost=1,site=orda.org
 $boost=1,site=panynj.gov
 $boost=1,site=nypa.gov
