@@ -4,4 +4,4 @@
 ! author: cilles
 
 $discard
-Prime Video$intitle,site=amazon.com
+$site=amazon.com
