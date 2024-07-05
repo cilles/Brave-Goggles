@@ -5,132 +5,45 @@
 
 $discard
 
-! ---------LEGISLATIVE BRANCH---------
-
-! Congress
+! Legislative
 $site=congress.gov
-
-! Library of Congress
 $site=loc.gov
 
-! ---------END LEGISLATIVE BRANCH---------
-
-
-
-! ---------JUDICIAL BRANCH---------
-
-! Department of Justice (DOJ)
+! Judicial
 $site=justice.gov
-
-! US Courts
 $site=uscourts.gov
 
-! ---------END JUDICIAL BRANCH---------
-
-
-
-
-! ---------EXECUTIVE BRANCH---------
-
-! National Archives
+! Executive
 $site=archives.gov
-
-! Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 $site=atf.gov
-
-! Central Intelligence Agency (CIA)
 $site=cia.gov
-
-! Cybersecurity & Infrastructure Security Agency
 $site=cisa.gov
-
-! Department of Commerce
 $site=commerce.gov
-
-! Consumer Financial Protection Bureau (CFPB)
 $site=consumerfinance.gov
-
-! Drug Enforcement Administration (DEA)
 $site=dea.gov
-
-! Department of Defense (DOD)
 $site=defense.gov
-
-! Department of Homeland Security (DHS)
 $site=dhs.gov
-
-! Department of Transportation (DOT)
 $site=dot.gov
-
-! Deparment of Education
 $site=ed.gov
-
-! Department of Energy
 $site=energy.gov
-
-! Environmental Protection Agency (EPA)
 $site=epa.gov
-
-! Federal Aviation Administration (FAA)
 $site=faa.gov
-
-! Federal Bureai of Investigation (FBI)
 $site=fbi.gov
-
-! Federal Communications Commission (FCC)
 $site=fcc.gov
-
-! Federal Deposit Insurance Corporation (FDIC)
 $site=fdic.gov
-
-! Federal Register
 $site=federalregister.gov
-
-! Federal Emergency Management Agency (FEMA)
 $site=fema.gov
-
-! Federal Trade Commission (FTC)
 $site=ftc.gov
-
-! Health and Human Services (HHS)
 $site=hhs.gov
-
-! Department of Housing and Urban Development
 $site=hud.gov
-
-! Internal Revenue Services (IRS)
 $site=irs.gov
-
-! National Security Agency (NSA) / Central Security Service (CSA)
 $site=nsa.gov
-
-! Securities and Exchange Commission (SEC)
 $site=sec.gov
-
-! Deparment of State (DOS)
 $site=state.gov
-
-! Deparment of Transportation (DOT)
 $site=transportation.gov
-
-! Deparment of the Treasury
 $site=treasury.gov
-
-! Department of the Treasury - Alcohol Tax and Trade Bureau
 $site=ttb.gov
-
-
 $site=usa.gov
-
-! Department of Agriculture (DOA)
 $site=usda.gov
-
-! Deparment of Veteran Affairs
 $site=va.gov
-
-! The White House
 $site=whitehouse.gov
-
-
-
-! ---------END EXECUTIVE BRANCH---------
