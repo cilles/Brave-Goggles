@@ -9,15 +9,18 @@ $discard
 
 ! Legislative
 $site=congress.gov
+$site=house.gov
 $site=loc.gov
+$site=ocwr.gov
+$site=senate.gov
 
 ! Judicial
-$site=justice.gov
 $site=uscourts.gov
 
 ! Executive
 $site=archives.gov
 $site=atf.gov
+$site=cbp.gov
 $site=cia.gov
 $site=cisa.gov
 $site=commerce.gov
@@ -25,6 +28,7 @@ $site=consumerfinance.gov
 $site=dea.gov
 $site=defense.gov
 $site=dhs.gov
+$site=doi.gov
 $site=dol.gov
 $site=dot.gov
 $site=ed.gov
@@ -40,7 +44,9 @@ $site=ftc.gov
 $site=hhs.gov
 $site=hud.gov
 $site=irs.gov
+$site=justice.gov
 $site=nsa.gov
+$site=ojp.gov
 $site=sec.gov
 $site=state.gov
 $site=transportation.gov
@@ -48,6 +54,7 @@ $site=treasury.gov
 $site=ttb.gov
 $site=usa.gov
 $site=usda.gov
+$site=usdoj.gov
 $site=va.gov
 $site=whitehouse.gov
 
@@ -56,10 +63,23 @@ $site=af.mil
 $site=africom.mil
 $site=army.mil
 $site=centcom.mil
+$site=commissaries.com
 $site=cybercom.mil
-$site=dodig.mil
+$site=darpa.mil
+$site=dcaa.mil
+$site=dcma.mil
+$site=dcsa.mil
+$site=dfas.mil
+$site=dia.mil
 $site=disa.mil
+$site=dla.mil
+$site=dodig.mil
+$site=dpaa.mil
+$site=dsca.mil
+$site=dtic.mil
+$site=dtra.mil
 $site=eucom.mil
+$site=health.mil
 $site=jcs.mil
 $site=marines.mil
 $site=navy.mil
@@ -96,11 +116,41 @@ $site=bop.gov
 $site=bpa.gov
 $site=bsee.gov
 $site=bts.gov
+$site=cbo.gov
+$site=cdc.gov
 $site=census.gov
+$site=cfa.gov
+$site=cfo.gov
+$site=cftc.gov
+$site=choc.gov
+$site=cio.gov
+$site=copyright.gov
+$site=cpsc.gov
 $site=csb.gov
+$site=csce.gov
+$site=csosa.gov
+$site=denali.gov
+$site=dnfsb.gov
+$site=dni.gov
+$site=dra.gov
+$site=ignet.gov
 $site=moneyfactory.gov
+$site=occ.gov
 $site=usadf.gov
 $site=usagm.gov
 $site=usaid.gov
 $site=usbg.gov
 $site=usbr.gov
+$site=usccr.gov
+$site=uscirf.gov
+$site=uscis.gov
+$site=uscp.gov
+$site=usps.com
+$site=visitthecapitol.gov
+
+
+
+
+
+
+
