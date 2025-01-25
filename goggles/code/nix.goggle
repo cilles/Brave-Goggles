@@ -1,0 +1,15 @@
+! name: Nix 
+! description: Nix & NixOS search results
+! public: true
+! author: cilles
+
+$discard
+
+/r/Nix/$boost=1
+/r/NixOS/$boost=1
+$boost=1,site=nixos.org
+$boost=1,site=discourse.nixos.org
+$boost=1,site=search.nixos.org
+$boost=1,site=releases.nixos.org
+$boost=1,site=nixos.wiki
+$boost=1,site=nix.dev

@@ -10,6 +10,8 @@ $boost=1,site=stackoverflow.com
 $boost=1,site=tutorialspoint.com
 $boost=1,site=kinneygroup.com
 $boost=1,site=javatpoint.com
+$boost=1,site=splunksearches.com
+$boost=1,site=conf.splunk.com
 $boost=1,site=splunk.com
 $boost=1,site=gosplunk.com
 $boost=2,site=community.splunk.com
