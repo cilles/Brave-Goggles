@@ -5,11 +5,11 @@
 
 $discard
 
-/r/Albany/$boost=1
-$boost=1,site=cbs6albany.com
-$boost=1,site=cwalbany.com
-$boost=1,site=dailygazette.com
-$boost=1,site=news10.com
-$boost=1,site=timesunion.com
-$boost=1,site=wnyt.com
+/r/Albany/$site=reddit.com,boost=1
+$site=cbs6albany.com
+$site=cwalbany.com
+$site=dailygazette.com
+$site=news10.com
+$site=timesunion.com
+$site=wnyt.com
 /nys/capital-region/$site=spectrumlocalnews.com
