@@ -1,0 +1,20 @@
+! name: Wine & Sprits (Rochester, NY, USA) 
+! description: Search through local liquor stores for the best prices in Rochester, NY
+! public: false
+! author: cilles
+
+$discard
+
+! Liquor Stores
+$site=baytownewine.com
+$site=canalponds.com
+$site=centuryliquorandwines.com
+$site=chililiquor.com
+$site=chmliquors.com
+$site=eastaveliquor.com
+$site=euphorialiquor.com
+$site=lisasliquorbarn.com
+$site=marketviewliquor.com
+$site=pinnacleliquor.com
+$site=rocwine.com
+$site=whitehouseliquor.com

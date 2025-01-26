@@ -4,4 +4,12 @@
 ! author: cilles
 
 $discard
-$site=amazon.com
+
+/r/Albany/$site=reddit.com,boost=1
+$site=cbs6albany.com
+$site=cwalbany.com
+$site=dailygazette.com
+$site=news10.com
+$site=timesunion.com
+$site=wnyt.com
+/nys/capital-region/$site=spectrumlocalnews.com
