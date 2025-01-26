@@ -1,0 +1,15 @@
+! name: Local News (Albany, NY, USA) 
+! description: Local news for the Albany, NY area
+! public: true
+! author: cilles
+
+$discard
+
+/r/Albany/$boost=1
+$boost=1,site=cbs6albany.com
+$boost=1,site=cwalbany.com
+$boost=1,site=dailygazette.com
+$boost=1,site=news10.com
+$boost=1,site=spectrumlocalnews.com/nys/capital-region/
+$boost=1,site=timesunion.com
+$boost=1,site=wnyt.com

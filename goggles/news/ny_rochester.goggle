@@ -1,0 +1,14 @@
+! name: Local News (Rochester, NY, USA) 
+! description: Local news for the Rochester, NY area
+! public: true
+! author: cilles
+
+$discard
+
+/r/Rochester/$boost=1
+$boost=1,site=13wham.com
+$boost=1,site=democratandchronicle.com
+$boost=1,site=foxrochester.com
+$boost=1,site=rochesterfirst.com
+$boost=1,site=spectrumlocalnews.com/nys/rochester/
+$boost=1,site=whec.com
