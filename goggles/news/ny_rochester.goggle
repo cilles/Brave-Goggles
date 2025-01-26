@@ -5,10 +5,10 @@
 
 $discard
 
-/r/Rochester/$boost=1
-$boost=1,site=13wham.com
-$boost=1,site=democratandchronicle.com
-$boost=1,site=foxrochester.com
-$boost=1,site=rochesterfirst.com
-$boost=1,site=spectrumlocalnews.com/nys/rochester/
-$boost=1,site=whec.com
+$site=13wham.com
+$site=democratandchronicle.com
+$site=foxrochester.com
+$site=rochesterfirst.com
+$site=whec.com
+/nys/rochester/$site=spectrumlocalnews.com
+/r/Rochester/$site=reddit.com

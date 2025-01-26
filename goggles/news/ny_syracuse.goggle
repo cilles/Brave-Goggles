@@ -5,11 +5,11 @@
 
 $discard
 
-/r/Syracuse/$boost=1
-$boost=1,site=centralcurrent.org
-$boost=1,site=cnycentral.com
-$boost=1,site=eaglenewsonline.com
-$boost=1,site=localsyr.com
-$boost=1,site=spectrumlocalnews.com/nys/central-ny/
-$boost=1,site=syracuse.com
-$boost=1,site=urbancny.com
+$site=centralcurrent.org
+$site=cnycentral.com
+$site=eaglenewsonline.com
+$site=localsyr.com
+$site=syracuse.com
+$site=urbancny.com
+/nys/central-ny/$site=spectrumlocalnews.com
+/r/Syracuse/$site=reddit.com
