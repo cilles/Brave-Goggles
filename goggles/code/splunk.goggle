@@ -5,14 +5,15 @@
 
 $discard
 
-$boost=1,site=conf.splunk.com
-$boost=1,site=splunk.com
-$boost=2,site=community.splunk.com
-$boost=3,site=docs.splunk.com
+
 $site=gosplunk.com
 $site=javatpoint.com
 $site=kinneygroup.com
 $site=splunksearches.com
 $site=stackoverflow.com
 $site=tutorialspoint.com
+$boost=1,site=conf.splunk.com
+$boost=1,site=splunk.com
+$boost=2,site=community.splunk.com
+$boost=3,site=docs.splunk.com
 /r/Splunk/$boost=1,site=reddit.com
