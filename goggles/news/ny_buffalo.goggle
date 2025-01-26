@@ -1,0 +1,15 @@
+! name: Local News (Buffalo, NY, USA) 
+! description: Local news for the Buffalo, NY area
+! public: true
+! author: cilles
+
+$discard
+
+/r/Buffalo/$boost=1
+$boost=1,site=buffalonews.com
+$boost=1,site=buffalorising.com
+$boost=1,site=spectrumlocalnews.com/nys/buffalo/
+$boost=1,site=wgrz.com
+$boost=1,site=wivb.com
+$boost=1,site=wkbw.com
+$boost=1,site=wutv29.com
