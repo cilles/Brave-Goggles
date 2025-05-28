@@ -6,6 +6,5 @@
 $discard
 
 $site=idleon.wiki
-$site=youtube.com
-$site=steamcommunity.com
+/app/1476970/$site=steamcommunity.com
 /r/idleon/$site=reddit.com
