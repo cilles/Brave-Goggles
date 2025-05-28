@@ -1,0 +1,11 @@
+! name: IdleOn 
+! description: A search for the game IdleOn
+! public: false
+! author: cilles
+
+$discard
+
+$site=idleon.wiki
+$site=youtube.com
+$site=steamcommunity.com
+/r/idleon/$site=reddit.com
